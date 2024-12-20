@@ -1,7 +1,7 @@
 # Pączki (donuts)
 Note to self: confirm with Dziadek that this is right.
 
-<img src="./paczki.jpg" width="200px">
+<img src="./photos/paczki.jpg" width="200px">
 
 (photo from: https://www.jocooks.com/recipes/paczki/)
 

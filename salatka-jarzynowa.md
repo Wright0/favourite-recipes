@@ -1,7 +1,7 @@
 # Sałatka Jarzynowa: Polish Vegetable Salad
 Sałatka jarzynowa (pron.: ‘Sawatcah yazhenova’) is a Polish-style Vegetable Salad. It has countless variations, but this classic version is essential at parties, festivities, and family gatherings.
 
-<img src="./salatka-jarzynowa.jpg" width="200px">
+<img src="./photos/salatka-jarzynowa.jpg" width="200px">
 
 **Yield:** 6-8 portions
 

@@ -1,7 +1,7 @@
 # Barszcz (lazy edition)
 Want Barszcz but are too lazy? Here's what you do.
 
-<img src="./barszcz.jpg" width="200px">
+<img src="./photos/barszcz.jpg" width="200px">
 
 ## Ingredients
 - A bunch of beets
@@ -11,7 +11,7 @@ Want Barszcz but are too lazy? Here's what you do.
 - 2-3 chicken bouillon cube
 - This is the hack: 1 pouch Winiary barszcz czerwony 
 
-<img src="./winiary-barszcz.jpg" width="200px">
+<img src="./photos/winiary-barszcz.jpg" width="200px">
 
 ## Steps
 1. So you fill pot with water, add the cubed beets and powder mix.

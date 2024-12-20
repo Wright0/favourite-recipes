@@ -9,7 +9,6 @@ To go in a turkey or other bird's carcass. Yum. Don't forget to also put it in t
 - bread (a crusty bread is quite nice. A baguette or boule, but can be done with regular bread)
 - Optional: chicken stock
 
-
 *Spices:*
 - rosemary
 - thyme

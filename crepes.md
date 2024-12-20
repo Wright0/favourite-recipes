@@ -1,7 +1,7 @@
 # Crepes
 I once made 150 of these in one night. The night before I went away to uni. My parents froze a bunch of them.
 
-<img src="./crepes.jpg" width="200px">
+<img src="./photos/crepes.jpg" width="200px">
 
 ## Ingredients
 - 2 cups flour
